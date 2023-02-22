@@ -1,0 +1,13 @@
+<config>
+  <inputexcelpath>C:\Users\name\Documents\Robocorp Projects\Sales Opport - QAD\Config.xlsx </inputexcelpath>
+  <inputexcelsheet>Sheet1</inputexcelsheet>
+  <configexceptionmailid>sanjesh.ld@yash.com</configexceptionmailid>
+  <configexceptionmailsubject>Config File is missing</configexceptionmailsubject>
+  <configexceptionmailbody>Hi Sales Team,
+
+Kindly Check the config file is either missing or corrupt. Bot is unable to read it. Please fix the issues ASAP.
+
+Regards,
+Sales Opportunities BOT</configexceptionmailbody>
+
+</config>
